@@ -1,0 +1,21 @@
+body {
+    background-color:black;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.img { 
+    margin-left: 541px;
+}
+
+.bio {
+    margin-left: 510px;
+}
+
+p {
+    color:white;
+    margin-left: 24px;
+}
+
+h3 {
+    margin-left: 24px;
+}
